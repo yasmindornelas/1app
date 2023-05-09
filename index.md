@@ -1,4 +1,4 @@
- Sobre mim
+Sobre mim
 
 Me chamo Yasmin Dornelas, tenho 24 anos, nasci em Brasília-DF, tenho 3 cachorros (Cookie, Nenem, Amora), moro com meus pais. Estudo Engenharia de Software no Instituto de Educação Superior de Brasília, estou iniciando na area de TI , sou curiosa e a área de tecnologia me permite isso, estou pronta para enfrentar novos desafios e oportunidades.
 
